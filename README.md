@@ -14,15 +14,17 @@ I don't commit too often, but do about as much as I have time for.  I also do a 
 ---
 
 ### Some of the technologies that I have plans for or would like to learn in the future:
-- Java ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-- C++ ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-- Game Dev with Unity ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-- K3s ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-- React.js ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-- Three.js ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-- MongoDB ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-- Penetration Testing ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)  
 
+#### Among other things...
++ Penetration Testing
 + Minecraft Modding
 + Electronic Music Making
 + Youtube / Filmmaking / Video Editing
@@ -30,7 +32,7 @@ I don't commit too often, but do about as much as I have time for.  I also do a 
 
 ---
 
-### If you're interested in some of my projects or other virtual escapades, [Here are some of my projects.](https://github.com/vividuwu?tab=repositories), and these are some places you can find me:     
+### If you're interested in some of my projects or other virtual escapades, [Here are some of my projects](https://github.com/vividuwu?tab=repositories), and these are some places you can find me:     
 - [Youtube](https://www.youtube.com/channel/UCwmMOhPynPfEXxpmMnk4crw)
 - [Itch.io](https://vividuwu.itch.io/)
 - [Twitch](https://www.twitch.tv/vivid_avali)
