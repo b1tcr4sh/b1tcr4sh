@@ -1,8 +1,8 @@
-#Hey!  I'm Vivid
+# Hey!  I'm Vivid
 
 ---
 
-###I'm a high school student teaching myself different technologies that I'm interested in.  Currently, this list looks a bit like this:
+### I'm a high school student teaching myself different technologies that I'm interested in.  Currently, this list looks a bit like this:
 
 - C# / .NET
 - Javascript
@@ -10,9 +10,9 @@
 - Git
 - Linux Bash
 
-I don't commit too often, but do about as much as I have time for.  [Here are some of my projects.](https://github.com/vividuwu?tab=repositories)  I also do a variety of other things, like making VRChat content, playing Trombone, and watching way too much Youtube.
+I don't commit too often, but do about as much as I have time for.  I also do a variety of other things, like making VRChat content, playing Trombone, and watching way too much Youtube.
 
-###Some of the technologies that I have plans for or would like to learn in the future:
+### Some of the technologies that I have plans for or would like to learn in the future:
 - Java
 - C++
 - Minecraft Forge
@@ -25,7 +25,7 @@ I don't commit too often, but do about as much as I have time for.  [Here are so
 + Youtube / Filmmaking / Video Editing
 + Pretty much anything else I find myself to be interested in.
 
-###If you're interested in some of my projects or other virtual escapades, here are some places you can find me:
+### If you're interested in some of my projects or other virtual escapades, [Here are some of my projects.](https://github.com/vividuwu?tab=repositories), and these are some places you can find me:
 - [Itch.io](https://vividuwu.itch.io/)
 - [Youtube](https://www.youtube.com/channel/UCwmMOhPynPfEXxpmMnk4crw)
 - [Reddit](https://www.reddit.com/user/TheArcticHusky)
