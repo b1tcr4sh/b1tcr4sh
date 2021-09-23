@@ -26,7 +26,8 @@ I don't commit too often, but do about as much as I have time for.  I also do a 
 #### Among other things...
 + Penetration Testing
 + Minecraft Modding
-+ Electronic Music Making
++ Making EDM
++ Dancing (Maybe??)
 + Youtube / Filmmaking / Video Editing
 + Pretty much anything else I find myself to be interested in.
 
