@@ -40,5 +40,6 @@ I don't commit too often, but do about as much as I have time for.  I also do a 
 - [Twitch](https://www.twitch.tv/vivid_avali)
 - [Refsheet](https://refsheet.net/Vivid)
 - [FA](https://www.furaffinity.net/user/thearctichusky/)
+- [VRChat](https://vrchat.com/home/user/usr_fedd3f2f-ec2c-4cfa-88c8-1ba34dbff219)
 
 </details>
