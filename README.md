@@ -12,7 +12,7 @@
 - Docker <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 - MongoDB <img height="32" width="32" src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" />
 
-I don't commit too often, but do about as much as I have time for.  I also do a variety of other things, like making VRChat content, playing Trombone, and watching way too much Youtube.
+I'm ssuuper lazy and generally don't commit too often, although I intend to change that.  However, when I'm not wasting my time watching Youtube and napping, I play a lot of VRChat and other VR games, practice trombone, and waste my time in others ways, like being a Redditor.   
 
 ---
 
@@ -28,8 +28,8 @@ I don't commit too often, but do about as much as I have time for.  I also do a 
 
 #### Among other things...
 + Penetration Testing
-+ Minecraft Modding
-+ Making EDM
++ Fabric/Forge/Paper Minecraft mods and plugins
++ Making Production
 + Youtube / Filmmaking / Video Editing
 + Pretty much anything else I find myself to be interested in.
 
