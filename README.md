@@ -9,6 +9,8 @@
 - Node.js <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 - Git <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 - Linux / Bash <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+- Docker <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+- MongoDB <img height="32" width="32" src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" />
 
 I don't commit too often, but do about as much as I have time for.  I also do a variety of other things, like making VRChat content, playing Trombone, and watching way too much Youtube.
 
@@ -31,9 +33,12 @@ I don't commit too often, but do about as much as I have time for.  I also do a 
 + Youtube / Filmmaking / Video Editing
 + Pretty much anything else I find myself to be interested in.
 
----
+<details>
+  <summary>Socials</summary>
 
 ### If you're interested in some of my projects or other virtual escapades, [Here are some of my projects](https://github.com/vividuwu?tab=repositories), and these are some other places you can find me:     
 - [Twitch](https://www.twitch.tv/vivid_avali)
 - [Refsheet](https://refsheet.net/Vivid)
 - [FA](https://www.furaffinity.net/user/thearctichusky/)
+
+</details>
