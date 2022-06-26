@@ -1,8 +1,8 @@
-# Hey!  I'm Vivid
+# Hey!  I'm Vivid (Aka Kyra)
 [![Itch.io](https://img.shields.io/badge/Vividuwu-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://vividuwu.itch.io/)  [![YouTube](https://img.shields.io/badge/v_i_v_i_d-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCwmMOhPynPfEXxpmMnk4crw)  [![Reddit](https://img.shields.io/badge/u/TheArcticHusky-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/thearctichusky)  [![Instagram](https://img.shields.io/badge/@vividuwu-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vividuwu/) [![Steam](https://img.shields.io/badge/v_i_v_i_d-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/vividlights/) 
 >Whoa you can click these!! ^^
 
-### I'm a high school student teaching myself different technologies that I'm interested in.  Currently, this list looks a bit like this:
+### I'm a high school student teaching myself random technologies.  The list looks a bit like this:
 
 - C# / .NET <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" /> 
 - Javascript <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -12,7 +12,7 @@
 - Docker <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 - MongoDB <img height="32" width="32" src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" />
 
-I'm ssuuper lazy and generally don't commit too often, although I intend to change that.  However, when I'm not wasting my time watching Youtube and napping, I play a lot of VRChat and other VR games, practice trombone, and waste my time in others ways, like being a Redditor.   
+I don't commit toooooo often, but do occasionally.  When I'm not writing code, I'm a VRChat dancer (and addict), professional band kid, a redditor, and wannabe EDM artist/dj.  If you want to see some of the things I do, check out my socials down below <3
 
 ---
 
@@ -25,13 +25,6 @@ I'm ssuuper lazy and generally don't commit too often, although I intend to chan
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)  
-
-#### Among other things...
-+ Penetration Testing
-+ Fabric/Forge/Paper Minecraft mods and plugins
-+ Making Production
-+ Youtube / Filmmaking / Video Editing
-+ Pretty much anything else I find myself to be interested in.
 
 <details>
   <summary>Socials</summary>
