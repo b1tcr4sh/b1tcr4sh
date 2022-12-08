@@ -4,7 +4,7 @@
 
 I'm a silly yeen/dork/creature on the internet who likes creating things for the other goofy animals in my computer.  I dabble in many things, especially anything to do with tech (the lower level, the better), music, gaming, VR, or whatever else I feel like at the moment.  
   
-I spend a loooot my time researching and learning about *nix, sys admin, network infrastructure, web APIs, low-level systems architecture, game development, and whatever other nerd shit I get myself into.  I could write a whole essay on here, but I'd rather keep it simple and let the things I make speak for themselves, soo....
+I spend a loooot my time researching and learning about *nix, sys admin, network infrastructure, web APIs, low-level systems architecture, game development, and whatever other nerd shit I get myself into.  I could write a whole essay on here, but I'd rather keep it simple and let the things I make and do speak for themselves, soo....
   
 #### If you want to come join me on some of my virtual escapades across the net:
   
