@@ -1,38 +1,23 @@
-# Hey!  I'm Vivid (Aka Kyra)
-[![Itch.io](https://img.shields.io/badge/Vividuwu-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://vividuwu.itch.io/)  [![YouTube](https://img.shields.io/badge/v_i_v_i_d-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCwmMOhPynPfEXxpmMnk4crw)  [![Reddit](https://img.shields.io/badge/u/TheArcticHusky-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/thearctichusky)  [![Instagram](https://img.shields.io/badge/@vividuwu-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vividuwu/) [![Steam](https://img.shields.io/badge/v_i_v_i_d-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/vividlights/) 
+<h1><~Welcome, Traveller~></h1>
+  
+>^^ Maybe this'll be clickable one day... ? ^^
+
+I'm a silly yeen/dork/creature on the internet who likes creating things for the other goofy animals in my computer.  I dabble in many things, especially anything to do with tech (the lower level, the better), music, gaming, VR, or whatever else I feel like at the moment.  
+  
+I spend a loooot my time researching and learning about *nix, sys admin, network infrastructure, web APIs, low-level systems architecture, game development, and whatever other nerd shit I get myself into.  I could write a whole essay on here, but I'd rather keep it simple and let the things I make speak for themselves, soo....
+  
+#### If you want to come join me on some of my virtual escapades across the net:
+  
+[![Itch.io](https://img.shields.io/badge/Vividuwu-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://vividuwu.itch.io/)  [![YouTube](https://img.shields.io/badge/v_i_v_i_d-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCwmMOhPynPfEXxpmMnk4crw)  [![Reddit](https://img.shields.io/badge/u/TheArcticHusky-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/thearctichusky)  [![Instagram](https://img.shields.io/badge/@vividuwu-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vividuwu/) [![Steam](https://img.shields.io/badge/KYЯΛ-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/queenkyra/) 
 >Whoa you can click these!! ^^
 
-### I'm a high school student teaching myself random technologies.  The list looks a bit like this:
-
-- C# / .NET <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" /> 
-- Javascript <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-- Node.js <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-- Git <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-- Linux / Bash <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-- Docker <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-- MongoDB <img height="32" width="32" src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" />
-
-I don't commit toooooo often, but do occasionally.  When I'm not writing code, I'm a VRChat dancer (and addict), professional band kid, a redditor, and wannabe EDM artist/dj.  If you want to see some of the things I do, check out my socials down below <3
-
----
-
-### Some of the technologies that I have plans for or would like to learn in the future:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)  
-
 <details>
-  <summary>Socials</summary>
-
-### If you're interested in some of my projects or other virtual escapades, [Here are some of my projects](https://github.com/vividuwu?tab=repositories), and these are some other places you can find me:     
+  <summary>Other Socials</summary>
+  
 - [Twitch](https://www.twitch.tv/vivid_avali)
 - [Refsheet](https://refsheet.net/Vivid)
 - [FA](https://www.furaffinity.net/user/thearctichusky/)
 - [VRChat](https://vrchat.com/home/user/usr_fedd3f2f-ec2c-4cfa-88c8-1ba34dbff219)
-
+- [Spotify](https://open.spotify.com/user/thearctichusky?si=10a2db78766b4bfb)
+  
 </details>
