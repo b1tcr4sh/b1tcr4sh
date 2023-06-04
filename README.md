@@ -4,7 +4,7 @@
 
 I'm a silly yeen/dork/creature on the internet who likes creating things for the other goofy animals in my computer.  I dabble in many things, especially anything to do with tech (the lower level, the better), music, gaming, VR, or whatever else I feel like at the moment.  
   
-Put simply, I'm a navigator of dreams and the internet.  I do a lot of research, make things, write, play a lot of VR, and just generally try to immerse myself in the things I spend my time daydreaming about.  In terms of technical stuff, this includes *nix, sys admin, networks, web APIs, low-level systems architecture, game development, and whatever other nerd shit I get myself into.  I could write a whole essay on here, but I'd rather keep it simple and let the things I make and do speak for themselves, soo....
+Put simply, I'm a webcrawler.  I do a lot of research, make things, write, play a lot of VR, and just generally try to immerse myself in the things I spend my time daydreaming about.  In terms of technical stuff, this includes *nix, sys admin, networks, web APIs, low-level systems architecture, game development, and whatever other nerd shit I get myself into.  I could write a whole essay on here, but I'd rather keep it simple and let the things I make and do speak for themselves, soo....
   
 #### If you want to come join me on some of my virtual escapades across the net:
   
@@ -16,7 +16,7 @@ Put simply, I'm a navigator of dreams and the internet.  I do a lot of research,
   
 - [Twitch](https://www.twitch.tv/vivid_avali)
 - [Refsheet](https://refsheet.net/Vivid)
-- [FA](https://www.furaffinity.net/user/thearctichusky/)
+- [FA](https://www.furaffinity.net/user/thearctichusky/) -- (this one kinda dead)
 - [VRChat](https://vrchat.com/home/user/usr_fedd3f2f-ec2c-4cfa-88c8-1ba34dbff219)
 - [Spotify](https://open.spotify.com/user/thearctichusky?si=10a2db78766b4bfb)
   
