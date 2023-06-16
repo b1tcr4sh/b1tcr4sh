@@ -8,7 +8,7 @@ Put simply, I'm a webcrawler.  I do a lot of research, make things, write, play 
   
 #### If you want to come join me on some of my virtual escapades across the net:
   
-[![Itch.io](https://img.shields.io/badge/Vividuwu-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://vividuwu.itch.io/)  [![YouTube](https://img.shields.io/badge/v_i_v_i_d-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCwmMOhPynPfEXxpmMnk4crw)  [![Reddit](https://img.shields.io/badge/u/TheArcticHusky-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/thearctichusky)  [![Instagram](https://img.shields.io/badge/@vividuwu-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vividuwu/) [![Steam](https://img.shields.io/badge/KYЯΛ-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/queenkyra/) 
+[![Itch.io](https://img.shields.io/badge/Vividuwu-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://vividuwu.itch.io/)  [![YouTube](https://img.shields.io/badge/v_i_v_i_d-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCwmMOhPynPfEXxpmMnk4crw)  [![Reddit](https://img.shields.io/badge/u/TheArcticHusky-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/thearctichusky) [![Steam](https://img.shields.io/badge/KYЯΛ-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/queenkyra/) 
 >Whoa you can click these!! ^^
 
 <details>
