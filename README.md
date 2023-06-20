@@ -8,13 +8,13 @@ Put simply, I'm a webcrawler.  I do a lot of research, make things, write, play 
   
 #### If you want to come join me on some of my virtual escapades across the net:
   
-[![Itch.io](https://img.shields.io/badge/Vividuwu-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://vividuwu.itch.io/)  [![YouTube](https://img.shields.io/badge/v_i_v_i_d-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCwmMOhPynPfEXxpmMnk4crw)  [![Reddit](https://img.shields.io/badge/u/TheArcticHusky-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/thearctichusky) [![Steam](https://img.shields.io/badge/KYЯΛ-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/queenkyra/) 
+[![Itch.io](https://img.shields.io/badge/Vividuwu-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://vividuwu.itch.io/)  [![YouTube](https://img.shields.io/badge/KYЯΛ-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCwmMOhPynPfEXxpmMnk4crw)  [![Reddit](https://img.shields.io/badge/u/TheArcticHusky-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/thearctichusky) [![Steam](https://img.shields.io/badge/KYЯΛ-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/queenkyra/) 
 >Whoa you can click these!! ^^
 
 <details>
   <summary>Other Socials</summary>
   
-- [Twitch](https://www.twitch.tv/vivid_avali)
+- [Twitch](https://www.twitch.tv/chronicallykyra)
 - [Refsheet](https://refsheet.net/Vivid)
 - [FA](https://www.furaffinity.net/user/thearctichusky/) -- (this one kinda dead)
 - [VRChat](https://vrchat.com/home/user/usr_fedd3f2f-ec2c-4cfa-88c8-1ba34dbff219)
